@@ -6,7 +6,9 @@ categories: Health
 ---
 
 Animals try to kill you before you eat them. Plants try to kill you after you eat them.
+
 Many plants, including ones that are considered "healthy" in our modern world, are packed with damaging compounds. People who regularly consume raw seeds - modern grains, legumes, and nuts - often have severely depleted levels of many important minerals such as zinc, as well as a host of gut issues.
+
 Anti-nutrients, one type of damaging plant compound, can even count as negative nutrition. Phytic and Oxalic acid, found in high levels in seeds, actually bind to minerals in your gut, making them unusable by your body!
 Lectins, a class of proteins also in seeds, break down the lining of your gut. This then allows anything to leak into your bloodstream, wreaking havoc on your body in many ways, such as causing autoimmune disorders and systemic inflammation.
 
