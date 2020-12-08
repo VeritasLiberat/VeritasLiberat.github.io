@@ -3,6 +3,7 @@ layout: post
 title:  "Pillars of the Human Diet - Pillar II - Organs"
 date:   2020-08-07 12:00:00 -0000
 categories: Health
+image: liver_onions.jpg
 ---
 
 Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.

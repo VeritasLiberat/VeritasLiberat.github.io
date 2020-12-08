@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="page-content">
+<h1>{{ page.title }}</h1>
+
+{% if page.image %}
+  {% assign image = page.image %}
+{% else %}
+  {% assign image = page.title | append: ".jpg" %}
+{% endif %}
+
+<div class="featured-image">
+  <img src="{{ site.github.url }}/assets/img/{{ image }}">
+</div>
+
+<article>
+  {{ content }}
+</article>
+
+{% assign dir_array = page.dir | split: "/" %}
+{% assign dir_array_size_increment = dir_array.size | plus: 1 %}
+
+{% for current_page in site.pages %}
+  {% assign current_dir_array = current_page.dir | split: "/" %}
+  <p>
+    {% if current_page.dir contains page.dir and current_dir_array.size == dir_array_size_increment %}
+    {% if current_page.image %}
+      {% assign image = current_page.image %}
+    {% else %}
+      {% assign image = current_page.title | append: ".jpg" %}
+    {% endif %}
+<article>
+  <a href="{{ site.github.url }}{{ current_page.url }}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/{{ image }})">
+      <h2><span>{{ current_page.title }}</span></h2>
+    </div>
+  </a>
+</article>
+    {% endif %}
+  </p>
+{% endfor %}
+
+</div>

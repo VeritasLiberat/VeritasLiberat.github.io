@@ -3,6 +3,7 @@ layout: post
 title:  "Pillars of the Human Diet - Pillar III - Part 2: Sprouting"
 date:   2020-08-25 12:00:00 -0000
 categories: Health
+image: Sprouted_mung_beans.jpg
 ---
 
 Animals try to kill you before you eat them. Plants try to kill you after you eat them.

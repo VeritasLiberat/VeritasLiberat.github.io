@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Human Diet - Review"
-date:   2020-09-25 20:46:46 -0000
 categories: Health
+image: eye.jpg
 ---
 
 You have health problems. Everyone does today. The first question I would ask you is: Are you eating the Human Diet? Remember what happened to Pottenger's cats when they didn't eat the Cat Diet. Their health deteriorated rapidly, leading to infertility and thus the end of the experiment (and the cats). The Standard Western Diet is NOT the Human Diet. In fact it contains none of the four crucial components of the Human Diet. Let's recap those four pillars.

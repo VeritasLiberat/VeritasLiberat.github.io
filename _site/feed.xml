@@ -1,18 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VERITAS LIBERAT</title>
-    <description>Truth Frees
-</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Dec 2020 21:29:57 -0600</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2020 21:29:57 -0600</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
-    
-      <item>
-        <title>The Human Diet - Review</title>
-        <description>&lt;p&gt;You have health problems. Everyone does today. The first question I would ask you is: Are you eating the Human Diet? Remember what happened to Pottenger’s cats when they didn’t eat the Cat Diet. Their health deteriorated rapidly, leading to infertility and thus the end of the experiment (and the cats). The Standard Western Diet is NOT the Human Diet. In fact it contains none of the four crucial components of the Human Diet. Let’s recap those four pillars.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-12-07T23:07:38-06:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">VERITAS LIBERAT</title><subtitle>Truth Frees</subtitle><author><name>VL</name></author><entry><title type="html">The Human Diet - Review</title><link href="http://0.0.0.0:4000/health/The_Human_Diet_Review.html" rel="alternate" type="text/html" title="The Human Diet - Review" /><published>2020-09-25T00:00:00-05:00</published><updated>2020-09-25T00:00:00-05:00</updated><id>http://0.0.0.0:4000/health/The_Human_Diet_Review</id><content type="html" xml:base="http://0.0.0.0:4000/health/The_Human_Diet_Review.html">&lt;p&gt;You have health problems. Everyone does today. The first question I would ask you is: Are you eating the Human Diet? Remember what happened to Pottenger’s cats when they didn’t eat the Cat Diet. Their health deteriorated rapidly, leading to infertility and thus the end of the experiment (and the cats). The Standard Western Diet is NOT the Human Diet. In fact it contains none of the four crucial components of the Human Diet. Let’s recap those four pillars.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Pillar I&lt;/strong&gt; - Meat Cooked on the Bone: Leave the animal as intact as possible. Cook a whole turkey or chicken, a whole leg of lamb, or a steak with the bone attached. Eat all the fat, skin, and connective tissue. Then, use the bones to make bone broth.&lt;/p&gt;
 
@@ -22,21 +8,7 @@
 
 &lt;p&gt;&lt;strong&gt;Pillar IV&lt;/strong&gt; - Fresh and Raw: Fresh foods contain the highest levels of antioxidants, which minimize oxidative damage to the body. Raw animal products are the most nutritious versions of animals, and raw plant products are the least nutritious versions of plants. When cooking animal products, the less cooking the better (rare or medium rare at most). Don’t eat a lot of raw plants. Instead eat them cooked, or better yet, fermented and/or sprouted.&lt;/p&gt;
 
-&lt;p&gt;I urge everyone to make small steps towards the Human Diet. Even a small step will make a difference, and these improvements to your quality of life will motivate you to take more steps in this direction. I also highly recommend reading &lt;a href=&quot;https://drcate.com/deep-nutrition-why-your-genes-need-traditional-food/&quot;&gt;Deep Nutrition by Catherine Shanahan, M.D.&lt;/a&gt; It provides a stellar foundation for understanding how our body works and reacts to food. If there’s one book you read about health, make it this.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 Sep 2020 15:46:46 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/09/25/The_Human_Diet_Review.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/09/25/The_Human_Diet_Review.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pillars of the Human Diet - Pillar IV - Fresh and Raw</title>
-        <description>&lt;p&gt;An oxidation-reduction reaction is where one positively charged molecule steals an electron from another molecule. The molecule that lost an electron is said to have been oxidized. For many bodily processes, oxidation is both necessary and good. But, when there is an over abundance of positively charged molecules, oxidation can get out of hand and destroy healthy biological structures. This is where antioxidants come in. Antioxidants are compounds that inhibit oxidation, and the amount of antioxidants in food begins to decrease once the organisms dies. Fresh, whole foods, including raw animal products, contain a safe and balanced blend of antioxidants because all living organisms use them to prevent damage. (In a later column I’ll talk about the most powerful antioxidant. Hint: It’s not food!)&lt;/p&gt;
+&lt;p&gt;I urge everyone to make small steps towards the Human Diet. Even a small step will make a difference, and these improvements to your quality of life will motivate you to take more steps in this direction. I also highly recommend reading &lt;a href=&quot;https://drcate.com/deep-nutrition-why-your-genes-need-traditional-food/&quot;&gt;Deep Nutrition by Catherine Shanahan, M.D.&lt;/a&gt; It provides a stellar foundation for understanding how our body works and reacts to food. If there’s one book you read about health, make it this.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">You have health problems. Everyone does today. The first question I would ask you is: Are you eating the Human Diet? Remember what happened to Pottenger’s cats when they didn’t eat the Cat Diet. Their health deteriorated rapidly, leading to infertility and thus the end of the experiment (and the cats). The Standard Western Diet is NOT the Human Diet. In fact it contains none of the four crucial components of the Human Diet. Let’s recap those four pillars.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/eye.jpg" /></entry><entry><title type="html">Pillars of the Human Diet - Pillar IV - Fresh and Raw</title><link href="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-IV-Fresh-and-Raw.html" rel="alternate" type="text/html" title="Pillars of the Human Diet - Pillar IV - Fresh and Raw" /><published>2020-09-24T00:00:00-05:00</published><updated>2020-09-24T00:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pillars%20of%20the%20Human%20Diet%20-%20IV%20-%20Fresh%20and%20Raw</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-IV-Fresh-and-Raw.html">&lt;p&gt;An oxidation-reduction reaction is where one positively charged molecule steals an electron from another molecule. The molecule that lost an electron is said to have been oxidized. For many bodily processes, oxidation is both necessary and good. But, when there is an over abundance of positively charged molecules, oxidation can get out of hand and destroy healthy biological structures. This is where antioxidants come in. Antioxidants are compounds that inhibit oxidation, and the amount of antioxidants in food begins to decrease once the organisms dies. Fresh, whole foods, including raw animal products, contain a safe and balanced blend of antioxidants because all living organisms use them to prevent damage. (In a later column I’ll talk about the most powerful antioxidant. Hint: It’s not food!)&lt;/p&gt;
 
 &lt;p&gt;While ‘fresh’ applies to both plant and animal products, ‘raw’ only applies to animal products. Heat destroys nutrients in animal products, making them unusable by our body. In plants though, most nutrients are only bio-available if they are heated (or fermented and sprouted as discussed before). The retinoids (Vitamin A precursors) in carrots, for example, are only about 1% usable when raw, but closer to 30% bio-available when cooked. This is partly because the nutrients in plants are very different than the nutrients in animals, but mostly due to the structure of the plant locking those nutrients in.&lt;/p&gt;
 
@@ -46,20 +18,7 @@
   &lt;p&gt;Locked within cellulose-rich cell walls, vitamins and minerals in high-cellulose plant products pass right through our omnivore’s digestive system. Without heat or caustic chemicals, cellulose can only be broken down using specialized bacteria and extended gut-fermentation - something humans lack the intestinal yardage to accomplish (though they can replicate it via fermentation)…While gaining access to many of the nutrients in plants often requires judicious use of heat, many animal products are so abundant in nutrients that adding thermal energy risks fusing them together. This is why we need to cook our meat so gently, and why raw meat and seafood dishes comprise a valuable part of many international diets.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;My advice on Pillar IV:&lt;/strong&gt; Minimize raw plant consumption, because they are the least nutrient dense foods, and maximize raw animal consumption, because they are the most nutrient dense foods in existence. Try to eat fresh (killed the same day) wherever possible. Wild caught Sashimi, pasture raised raw eggs (you probably wouldn’t believe me if I told you how many raw eggs I eat per day), grass fed raw milk (I will do a whole column on raw milk), and dehydrated raw organ supplements are all great options.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 Sep 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/09/24/Pillars-of-the-Human-Diet-IV.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/09/24/Pillars-of-the-Human-Diet-IV.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pillars of the Human Diet - Pillar III - Part 2: Sprouting</title>
-        <description>&lt;p&gt;Animals try to kill you before you eat them. Plants try to kill you after you eat them.
+&lt;p&gt;&lt;strong&gt;My advice on Pillar IV:&lt;/strong&gt; Minimize raw plant consumption, because they are the least nutrient dense foods, and maximize raw animal consumption, because they are the most nutrient dense foods in existence. Try to eat fresh (killed the same day) wherever possible. Wild caught Sashimi, pasture raised raw eggs (you probably wouldn’t believe me if I told you how many raw eggs I eat per day), grass fed raw milk, and dehydrated raw organ supplements are all great options.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">An oxidation-reduction reaction is where one positively charged molecule steals an electron from another molecule. The molecule that lost an electron is said to have been oxidized. For many bodily processes, oxidation is both necessary and good. But, when there is an over abundance of positively charged molecules, oxidation can get out of hand and destroy healthy biological structures. This is where antioxidants come in. Antioxidants are compounds that inhibit oxidation, and the amount of antioxidants in food begins to decrease once the organisms dies. Fresh, whole foods, including raw animal products, contain a safe and balanced blend of antioxidants because all living organisms use them to prevent damage. (In a later column I’ll talk about the most powerful antioxidant. Hint: It’s not food!)</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/Yolks.jpg" /></entry><entry><title type="html">Pillars of the Human Diet - Pillar III - Part 2: Sprouting</title><link href="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-2.html" rel="alternate" type="text/html" title="Pillars of the Human Diet - Pillar III - Part 2: Sprouting" /><published>2020-08-25T07:00:00-05:00</published><updated>2020-08-25T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pillars%20of%20the%20Human%20Diet%20-%20Pillar%20III%20-%20Fermentation%20and%20Sprouting%20-%20Part%202</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-2.html">&lt;p&gt;Animals try to kill you before you eat them. Plants try to kill you after you eat them.
 Many plants, including ones that are considered “healthy” in our modern world, are packed with damaging compounds. People who regularly consume raw seeds - modern grains, legumes, and nuts - often have severely depleted levels of many important minerals such as zinc, as well as a host of gut issues.
 Anti-nutrients, one type of damaging plant compound, can even count as negative nutrition. Phytic and Oxalic acid, found in high levels in seeds, actually bind to minerals in your gut, making them unusable by your body!
 Lectins, a class of proteins also in seeds, break down the lining of your gut. This then allows anything to leak into your bloodstream, wreaking havoc on your body in many ways, such as causing autoimmune disorders and systemic inflammation.&lt;/p&gt;
@@ -74,20 +33,7 @@ Lectins, a class of proteins also in seeds, break down the lining of your gut. T
 &lt;p&gt;&lt;strong&gt;My advice on Pillar III - Sprouting:&lt;/strong&gt; Never eat raw seeds. When looking for bread, if the grains were not sprouted before grinding, do not eat them. If beans were not soaked for a few days, do not eat them. If nuts were not germinated, do not eat them.
 Almost all modern bread is made from wheat berries which have not been sprouted, and contain far higher levels of Lectins than ancient grains. Look for flours that are heirloom, such as Einkorn or Spelt, and sprouted. Use these to make your own sourdough.&lt;/p&gt;
 
-&lt;p&gt;Raw seeds do far more harm to your body than you might think. There is not a single known, recorded, group of traditional people who ate seeds without sprouting them first.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Aug 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/08/25/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-2.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/08/25/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-2.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pillars of the Human Diet - Pillar III - Part 1: Fermentation</title>
-        <description>&lt;p&gt;Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.&lt;/p&gt;
+&lt;p&gt;Raw seeds do far more harm to your body than you might think. There is not a single known, recorded, group of traditional people who ate seeds without sprouting them first.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Animals try to kill you before you eat them. Plants try to kill you after you eat them. Many plants, including ones that are considered “healthy” in our modern world, are packed with damaging compounds. People who regularly consume raw seeds - modern grains, legumes, and nuts - often have severely depleted levels of many important minerals such as zinc, as well as a host of gut issues. Anti-nutrients, one type of damaging plant compound, can even count as negative nutrition. Phytic and Oxalic acid, found in high levels in seeds, actually bind to minerals in your gut, making them unusable by your body! Lectins, a class of proteins also in seeds, break down the lining of your gut. This then allows anything to leak into your bloodstream, wreaking havoc on your body in many ways, such as causing autoimmune disorders and systemic inflammation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/Sprouted_mung_beans.jpg" /></entry><entry><title type="html">Pillars of the Human Diet - Pillar III - Part 1: Fermentation</title><link href="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-1.html" rel="alternate" type="text/html" title="Pillars of the Human Diet - Pillar III - Part 1: Fermentation" /><published>2020-08-19T07:00:00-05:00</published><updated>2020-08-19T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pillars%20of%20the%20Human%20Diet%20-%20Pillar%20III%20-%20Fermentation%20and%20Sprouting%20-%20Part%201</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-1.html">&lt;p&gt;Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.&lt;/p&gt;
 
 &lt;p&gt;Excerpt from &lt;em&gt;Deep Nutrition&lt;/em&gt; by Dr. Shanahan:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -97,20 +43,7 @@ Almost all modern bread is made from wheat berries which have not been sprouted,
 &lt;p&gt;When she says fight for your life, she’s referring the powerful effects of probiotics on our gut, and thus immune system. Having a symbiotic, or mutually beneficial, gut biome is crucial to good health and eating fermented food adds tons of helpful organisms to your body. These boost your immunity (the immune system is located nearly entirely in the gut), fight depression (almost all serotonin is made in the gut), keep digestion running smoothly, and produce many other benefits.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;My advice on Pillar III - Fermentation:&lt;/strong&gt; Ferment your own foods! Right now I have kombucha, sauerkraut, sourdough, and water kefir fermenting in my house, and plan to start yogurt as well in the near future. I used to have terrible gut problems, as I know many Americans do, but by following the ancient tradition of fermentation, my gut is in far better shape than ever. If you’re not ready to make your own food, then start by buying kombucha, whole milk yogurt with no sweeteners, or sauerkraut and make them part of your daily diet.
-This is my favorite topic to talk about because it has such a measurable and noticeable improvement on people’s quality of life. For example, my mom couldn’t handle dairy for decades, but last year she started drinking kombucha and eating yogurt everyday and now she can digest dairy with no issue. Traditional people fermented food for good reason, and you should too.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Aug 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/08/19/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-1.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/08/19/Pillars-of-the-Human-Diet-Pillar-III-Fermentation-and-Sprouting-Part-1.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pillars of the Human Diet - Pillar II - Organs</title>
-        <description>&lt;p&gt;Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.&lt;/p&gt;
+This is my favorite topic to talk about because it has such a measurable and noticeable improvement on people’s quality of life. For example, my mom couldn’t handle dairy for decades, but last year she started drinking kombucha and eating yogurt everyday and now she can digest dairy with no issue. Traditional people fermented food for good reason, and you should too.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/Saurkraut.jpeg" /></entry><entry><title type="html">Pillars of the Human Diet - Pillar II - Organs</title><link href="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-II-Organs.html" rel="alternate" type="text/html" title="Pillars of the Human Diet - Pillar II - Organs" /><published>2020-08-07T07:00:00-05:00</published><updated>2020-08-07T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pillars%20of%20the%20Human%20Diet%20-%20Pillar%20II%20-%20Organs</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-II-Organs.html">&lt;p&gt;Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.&lt;/p&gt;
 
 &lt;p&gt;Excerpt from &lt;em&gt;Deep Nutrition&lt;/em&gt; by Dr. Shanahan:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -122,21 +55,7 @@ This is my favorite topic to talk about because it has such a measurable and not
 &lt;p&gt;Consider the ancient wisdom: &lt;strong&gt;Like Supports Like&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;There is good evidence now that eating a specific organ helps that same organ in your body. This makes sense as that organ has all the pre-formed biological components that our body also needs. For example, if you have an under functioning thyroid, there is no better remedy than to the eat the thyroid from a previously healthy animal. I’ve dramatically helped several family members and friends overcome thyroid problems through a few simple steps, one of which is the daily consumption of high quality thyroid and adrenal glands (more to come on this topic).
-If you aren’t ready to take the plunge and buy whole organs yet, start with high quality dessicated organ supplements. I’d recommend everyone take a full spectrum organ supplement, especially focused on liver and brain.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 07 Aug 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/08/07/Pillars-of-the-Human-Diet-Pillar-II-Organs.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/08/07/Pillars-of-the-Human-Diet-Pillar-II-Organs.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Why Ancestral?</title>
-        <description>&lt;p&gt;Before diving into the second pillar of the Human Diet, let’s zoom out. Why am I looking to our ancestors and nature for guidance?&lt;/p&gt;
+If you aren’t ready to take the plunge and buy whole organs yet, start with high quality dessicated organ supplements. I’d recommend everyone take a full spectrum organ supplement, especially focused on liver and brain.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/liver_onions.jpg" /></entry><entry><title type="html">Why Ancestral?</title><link href="http://0.0.0.0:4000/health/Why-Ancestral.html" rel="alternate" type="text/html" title="Why Ancestral?" /><published>2020-07-20T07:00:00-05:00</published><updated>2020-07-20T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Why%20Ancestral</id><content type="html" xml:base="http://0.0.0.0:4000/health/Why-Ancestral.html">&lt;p&gt;Before diving into the second pillar of the Human Diet, let’s zoom out. Why am I looking to our ancestors and nature for guidance?&lt;/p&gt;
 
 &lt;p&gt;Consider the state of our health in the modern United States:&lt;/p&gt;
 &lt;ul&gt;
@@ -151,20 +70,7 @@ If you aren’t ready to take the plunge and buy whole organs yet, start with hi
 &lt;p&gt;Contrast that with, for example, the health of the Innuit or Eskimo peoples on their native diet of almost exclusively whole seafood (whale, fish, seal) and whole caribou. They have perfectly formed skeletons, perfect teeth, and more than twice the thickness of the skull as us. They aren’t plagued by modern degenerative diseases, such as those listed above, and have incredibly good blood panels. Hearty, strong, full of energy, happy. These are all words regularly used to describe these people.
 Note: Learn more about these impressive people by reading &lt;em&gt;The Fat of the Land&lt;/em&gt; by Vilhjalmur Stefansson.&lt;/p&gt;
 
-&lt;p&gt;Something is clearly wrong with our way of life. We are paying the price for abandoning our nature. The modern person is only a shell, not coming close to their potential. For this reason, and many more, we must study the wisdom of traditional knowledge, proven successful for thousands of years, to teach us how to live.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Jul 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/07/20/Why-Ancestral.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/07/20/Why-Ancestral.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pillars of the Human Diet - Pillar I - Meat Cooked on the Bone</title>
-        <description>&lt;p&gt;Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.&lt;/p&gt;
+&lt;p&gt;Something is clearly wrong with our way of life. We are paying the price for abandoning our nature. The modern person is only a shell, not coming close to their potential. For this reason, and many more, we must study the wisdom of traditional knowledge, proven successful for thousands of years, to teach us how to live.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Before diving into the second pillar of the Human Diet, let’s zoom out. Why am I looking to our ancestors and nature for guidance?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/nature-2.jpg" /></entry><entry><title type="html">Pillars of the Human Diet - Pillar I - Meat Cooked on the Bone</title><link href="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-I-Meat-Cooked-on-the-Bone.html" rel="alternate" type="text/html" title="Pillars of the Human Diet - Pillar I - Meat Cooked on the Bone" /><published>2020-07-17T07:00:00-05:00</published><updated>2020-07-17T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pillars%20of%20the%20Human%20Diet%20-%20Pillar%20I%20-%20Meat%20Cooked%20on%20the%20Bone</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pillars-of-the-Human-Diet-Pillar-I-Meat-Cooked-on-the-Bone.html">&lt;p&gt;Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.&lt;/p&gt;
 
 &lt;p&gt;Excerpt from &lt;em&gt;Deep Nutrition&lt;/em&gt; by Dr. Shanahan:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -175,65 +81,14 @@ Note: Learn more about these impressive people by reading &lt;em&gt;The Fat of t
 
 &lt;p&gt;Do not eat factory farmed, grain fed, animals. Not only are these practices horribly inhumane, the products produced by them are not just devoid of most nutrition, they actually contain many toxins. Find local farmers who raise their animals right, and buy directly from them.&lt;/p&gt;
 
-&lt;p&gt;Try to incorporate more parts of the animal. Opt for the Rib Steak rather than the Ribeye. Go for the 80/20 ground beef rather than the 90/10. Buy bones and make bone broth. Remember, our ancestors ate the entire animal, nose to tail, and our body adapted to need nutrients found only in certain parts of the animal that are missing in the Modern Western Diet.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Jul 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/07/17/Pillars-of-the-Human-Diet-Pillar-I-Meat-Cooked-on-the-Bone.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/07/17/Pillars-of-the-Human-Diet-Pillar-I-Meat-Cooked-on-the-Bone.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>The Human Diet</title>
-        <description>&lt;p&gt;Dr. Catherine Shanahan, a biochemist who was inspired by the traditional human population research done by Weston Price, looked at the scientific consensus on the diet of many animals. She noticed that it is easy to learn about what wolves eat in nature, which she would call the “Wolf Diet”, or the Salmon Diet, or the Lion Diet. However, learning about what Humans eat in nature is difficult. The research had not been done, or compiled effectively, and certainly wasn’t common knowledge. The average person today has almost no idea what their ancestors ate just a few hundred years ago, and certainly not before civilization. Disappointed with this severed connection we have with our roots, she set out to determine the &lt;strong&gt;Human Diet&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Try to incorporate more parts of the animal. Opt for the Rib Steak rather than the Ribeye. Go for the 80/20 ground beef rather than the 90/10. Buy bones and make bone broth. Remember, our ancestors ate the entire animal, nose to tail, and our body adapted to need nutrients found only in certain parts of the animal that are missing in the Modern Western Diet.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/steak.jpg" /></entry><entry><title type="html">The Human Diet</title><link href="http://0.0.0.0:4000/health/The-Human-Diet.html" rel="alternate" type="text/html" title="The Human Diet" /><published>2020-07-08T07:00:00-05:00</published><updated>2020-07-08T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/The%20Human%20Diet</id><content type="html" xml:base="http://0.0.0.0:4000/health/The-Human-Diet.html">&lt;p&gt;Dr. Catherine Shanahan, a biochemist who was inspired by the traditional human population research done by Weston Price, looked at the scientific consensus on the diet of many animals. She noticed that it is easy to learn about what wolves eat in nature, which she would call the “Wolf Diet”, or the Salmon Diet, or the Lion Diet. However, learning about what Humans eat in nature is difficult. The research had not been done, or compiled effectively, and certainly wasn’t common knowledge. The average person today has almost no idea what their ancestors ate just a few hundred years ago, and certainly not before civilization. Disappointed with this severed connection we have with our roots, she set out to determine the &lt;strong&gt;Human Diet&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;After extensive Anthropological, Biological, Chemical, and Historical research, she decided that there are “Four Pillars” of the Human Diet. These are four types or groups of foods that all traditional peoples ate, including our ancestors, which give our body the necessary resources to function optimally. None of these pillars can be skipped if excellent health is the goal. She also calls out certain modern foods that absolutely must be avoided in order to follow the Human Diet. A population that follows the Human Diet will achieve good health. We will dive into each of these pillars first, in the coming days.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Jul 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/07/08/The-Human-Diet.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/07/08/The-Human-Diet.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Pottenger's Cats</title>
-        <description>&lt;p&gt;Dr. Francis Pottenger also performed nutrition research in the 1930’s. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.&lt;/p&gt;
+&lt;p&gt;After extensive Anthropological, Biological, Chemical, and Historical research, she decided that there are “Four Pillars” of the Human Diet. These are four types or groups of foods that all traditional peoples ate, including our ancestors, which give our body the necessary resources to function optimally. None of these pillars can be skipped if excellent health is the goal. She also calls out certain modern foods that absolutely must be avoided in order to follow the Human Diet. A population that follows the Human Diet will achieve good health. We will dive into each of these pillars first, in the coming days.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Dr. Catherine Shanahan, a biochemist who was inspired by the traditional human population research done by Weston Price, looked at the scientific consensus on the diet of many animals. She noticed that it is easy to learn about what wolves eat in nature, which she would call the “Wolf Diet”, or the Salmon Diet, or the Lion Diet. However, learning about what Humans eat in nature is difficult. The research had not been done, or compiled effectively, and certainly wasn’t common knowledge. The average person today has almost no idea what their ancestors ate just a few hundred years ago, and certainly not before civilization. Disappointed with this severed connection we have with our roots, she set out to determine the Human Diet.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/dinner.jpg" /></entry><entry><title type="html">Pottenger’s Cats</title><link href="http://0.0.0.0:4000/health/Pottengers-Cats.html" rel="alternate" type="text/html" title="Pottenger's Cats" /><published>2020-06-30T07:00:00-05:00</published><updated>2020-06-30T07:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Pottengers%20Cats</id><content type="html" xml:base="http://0.0.0.0:4000/health/Pottengers-Cats.html">&lt;p&gt;Dr. Francis Pottenger also performed nutrition research in the 1930’s. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.&lt;/p&gt;
 
 &lt;p&gt;The cats fed the cooked food diet did not fare so well. By the end of the first generation, they already began developing degenerative disease and lacked energy. The second generation had poorly developed skeletons, especially in the skull, and more degenerative disease. The third generation had significantly degenerated to the point that very few were fertile, and none of the much smaller (in size, mass, and population) fourth generation lived past 6 months.&lt;/p&gt;
 
 &lt;p&gt;The good news is that this degeneration is reversible. Cats in the third generation cooked food group were switched over to a raw food diet and became more healthy quite quickly. They then produced a new generation which was properly developed and had far less degenerative disease.&lt;/p&gt;
 
-&lt;p&gt;This study shows that simply eating the “wrong” foods for our body is enough to produce terrible results. Cooked animal products are not nutritious enough to supply cats with all they need to properly develop, but raw animal products are. What are the “right” and “wrong” foods for humans? Stay tuned.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Jun 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/06/30/Pottengers-Cats.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/06/30/Pottengers-Cats.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-      <item>
-        <title>Weston Price</title>
-        <description>&lt;p&gt;Weston Price, head of the American Dental Association, traveled the world in the 1930’s to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.&lt;/p&gt;
+&lt;p&gt;This study shows that simply eating the “wrong” foods for our body is enough to produce terrible results. Cooked animal products are not nutritious enough to supply cats with all they need to properly develop, but raw animal products are. What are the “right” and “wrong” foods for humans? Stay tuned.&lt;/p&gt;</content><author><name>VL</name></author><summary type="html">Dr. Francis Pottenger also performed nutrition research in the 1930’s. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/black_cat.jpg" /></entry><entry><title type="html">Weston Price</title><link href="http://0.0.0.0:4000/health/Weston-Price.html" rel="alternate" type="text/html" title="Weston Price" /><published>2020-06-26T00:00:00-05:00</published><updated>2020-06-26T00:00:00-05:00</updated><id>http://0.0.0.0:4000/health/Weston%20Price</id><content type="html" xml:base="http://0.0.0.0:4000/health/Weston-Price.html">&lt;p&gt;Weston Price, head of the American Dental Association, traveled the world in the 1930’s to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.&lt;/p&gt;
 
-&lt;p&gt;What were these people eating, and avoiding, to put them in a state of such excellent health? In the coming weeks, I’ll elaborate more on the differences between a traditional healthy diet and the modern toxic diet. Diet is the first area of health covered because I believe it’s the most important. Stay tuned.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 26 Jun 2020 07:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/health/2020/06/26/Weston-Price.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/health/2020/06/26/Weston-Price.html</guid>
-        
-        
-        <category>Health</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;What were these people eating, and avoiding, to put them in a state of such excellent health? In the coming weeks, I’ll elaborate more on the differences between a traditional healthy diet and the modern toxic diet. Diet is the first area of health covered because I believe it’s the most important. Stay tuned.&lt;/p&gt;</content><author><name>VL</name></author><category term="health" /><summary type="html">Weston Price, head of the American Dental Association, traveled the world in the 1930’s to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/harvesting_fish.jpg" /></entry></feed>
