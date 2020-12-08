@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
-- {name: 'Knowledge Base', folder: 'knowledge_base', file: 'knowledge_base.html'}
+- {name: 'Knowledge Base', folder: 'pages', file: 'knowledge_base.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

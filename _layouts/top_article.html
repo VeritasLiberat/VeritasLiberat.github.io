@@ -21,7 +21,6 @@ layout: default
     {% else %}
       {% assign image = current_page.title | append: ".jpg" %}
     {% endif %}
-  <p>
     {% if current_page.title == entry %}
 <article>
   <a href="{{ site.github.url }}{{ current_page.url }}">
@@ -31,7 +30,6 @@ layout: default
   </a>
 </article>
     {% endif %}
-  </p>
   {% endfor %}
 {% endfor %}
 
