@@ -3,6 +3,7 @@ layout: post
 title:  "Pillars of the Human Diet - Pillar III - Part 1: Fermentation"
 date:   2020-08-19 12:00:00 -0000
 categories: Health
+image: Saurkraut.jpeg
 ---
 
 Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.

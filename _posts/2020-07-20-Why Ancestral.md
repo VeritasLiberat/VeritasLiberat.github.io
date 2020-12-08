@@ -3,6 +3,7 @@ layout: post
 title:  "Why Ancestral?"
 date:   2020-07-20 12:00:00 -0000
 categories: Health
+image: nature-2.jpg
 ---
 
 Before diving into the second pillar of the Human Diet, let's zoom out. Why am I looking to our ancestors and nature for guidance?

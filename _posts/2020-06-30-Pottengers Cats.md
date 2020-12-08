@@ -3,6 +3,7 @@ layout: post
 title:  "Pottenger's Cats"
 date:   2020-06-30 12:00:00 -0000
 categories: Health
+image: black_cat.jpg
 ---
 
 Dr. Francis Pottenger also performed nutrition research in the 1930's. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.

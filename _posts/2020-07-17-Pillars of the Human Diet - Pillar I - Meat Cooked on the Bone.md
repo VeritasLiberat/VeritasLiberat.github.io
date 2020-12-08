@@ -3,6 +3,7 @@ layout: post
 title:  "Pillars of the Human Diet - Pillar I - Meat Cooked on the Bone"
 date:   2020-07-17 12:00:00 -0000
 categories: Health
+image: steak.jpg
 ---
 
 Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.

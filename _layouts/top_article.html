@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<article>
+  {{ content }}
+</article>
+
+{% assign dir_array = page.dir | split: "/" %}
+{% assign dir_array_size_increment = dir_array.size | plus: 1 %}
+
+{% assign order = "Nutrition, Sleep, Fitness, Mental, Electromagnetic Fields, Fasting, Disease" | split: ", " %}
+
+{% for entry in order %}
+  {% for current_page in site.pages %}
+    {% assign current_dir_array = current_page.dir | split: "/" %}
+    {% if current_page.image %}
+      {% assign image = current_page.image %}
+    {% else %}
+      {% assign image = current_page.title | append: ".jpg" %}
+    {% endif %}
+  <p>
+    {% if current_page.title == entry %}
+<article>
+  <a href="{{ site.github.url }}{{ current_page.url }}">
+    <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/{{ image }})">
+      <h2><span>{{ current_page.title }}</span></h2>
+    </div>
+  </a>
+</article>
+    {% endif %}
+  </p>
+  {% endfor %}
+{% endfor %}
+

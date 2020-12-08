@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Weston Price"
-date:   2020-06-26 12:00:00 -0000
-categories: Health
+author: "VL"
+categories: health
+tags: [health]
+image: harvesting_fish.jpg
 ---
 
 Weston Price, head of the American Dental Association, traveled the world in the 1930's to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.
