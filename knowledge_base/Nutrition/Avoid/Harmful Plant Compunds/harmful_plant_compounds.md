@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Harmful Plant Compounds
+image: harmful_plant_compounds.jpg
 ---
 
 Plants are packed with compounds that cause damage in many different forms. Being aware and minimizing exposure to these compounds is important for good health.

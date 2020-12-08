@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Vitamin D
+image: vitamin_d.jpg
 ---
 
 Vitamin D in the form of D3, the active form, is acquired from sun exposure and animal fat in foods such as fish and eggs.

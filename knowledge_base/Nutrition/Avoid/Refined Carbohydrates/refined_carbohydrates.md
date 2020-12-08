@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Carbohydrates
+title: Refined Carbohydrates
+image: refined_carbohydrates.jpg
 ---
 
 Minimizing carbohydrate intake and avoiding refined carbohydrates is necessary for optimal health.

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: How to Lose Body Fat
+image: how_to_lose_body_fat.png
 ---
 
 **Utilize fasting and eat foods that minimize insulin secretion.**

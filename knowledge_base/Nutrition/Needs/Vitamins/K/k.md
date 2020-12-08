@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Vitamin K
+image: vitamin_k.jpg
 ---
 
 *K1 (Phylloquinone) and K2 (Menaquinones)*
