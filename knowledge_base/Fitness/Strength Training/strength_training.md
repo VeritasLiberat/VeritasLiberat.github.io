@@ -15,4 +15,5 @@ Resistance training for strength is required for men, and encouraged for women. 
 
 ## Books
 *The Way To Live* by George Hackenschmidt
+
 *Starting Strength* by Mark Rippetoe

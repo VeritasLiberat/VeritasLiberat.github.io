@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<a href="{{ site.github.url }}/pages/knowledge_base.html">Knowledge Base</a>
+
+{% assign dir_array = page.dir | split: "/" %}
+{% for folder in dir_array %}
+  {% assign folder_formatted = folder | replace: "%20", " " %}
+  {% if folder and folder_formatted != page.title %}
+    {% for check_page in site.pages %}
+      {% if check_page.title == folder_formatted %}
+        &gt; <a href="{{ site.github.url }}{{ check_page.url }}">{{ folder_formatted }}</a>
+      {% endif %}
+    {% endfor %}    
+  {% endif %}
+{% endfor %}
+
 <div class="page-content">
 <h1>{{ page.title }}</h1>
 
