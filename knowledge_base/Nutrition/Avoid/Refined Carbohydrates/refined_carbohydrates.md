@@ -4,7 +4,7 @@ title: Refined Carbohydrates
 image: refined_carbohydrates.jpg
 ---
 
-Minimizing carbohydrate intake and avoiding refined carbohydrates is necessary for optimal health.
+Minimizing carbohydrate intake and avoiding refined carbohydrates is helpful for optimal health.
 
 ## Relevant Videos
 [Dr. Paul Mason - Treating Metabolic Syndrome](https://www.youtube.com/watch?v=KlHPmJTihBc&t=6s)

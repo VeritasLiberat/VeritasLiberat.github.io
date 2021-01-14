@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Fiber
+title: Excess Fiber
+image: Fiber.jpg
 ---
 
 Fiber is unnecessary. Our body's ability to ferment fiber in our colon is very minimal.

@@ -13,13 +13,9 @@ The perfect diet provides the body all that it needs to operate properly. Unfort
 
 ### Magnesium
 
-[Magnesium Oil Spray:](https://www.allstarhealth.com/f/life-flo-pure_magnesium_oil.htm) Spray 10-20 times on as much skin as possible before bed. 
+[Magnesium Oil Spray:](https://www.allstarhealth.com/f/life-flo-pure_magnesium_oil.htm) Spray 10-20 times on as much skin as possible before bed.
 
 Or, soak feet in hot water with one cup of dissolved Magnesium Chloride flakes for 20 minutes.
-
-### Zinc/Copper
-
-[Jarrow's Zinc Copper blend:](https://www.allstarhealth.com/f/jarrow-zinc_balance_15mg.htm) The ratio of Zinc to Copper is important and this ensures you get enough of both. Take one per day.
 
 ### Boron
 
@@ -59,22 +55,32 @@ Add two teaspoons to about an ounce of milk per day.
 
 ## Vitamins
 
-### Vitamin D3
+### Vitamin D
 
-Unless you absorb 4-6 hours of sun per day, a D3 supplement is required. Recommended dose is 10,000 IU per day topically.
+Adults should aim for about 8,000 IU of Vitamin D per day. This can be achieved with enough dietary cholesterol and about 4-6 hours of sun per day. In case that is not possible, prioritize getting Vitamin D from high quality animal fat. Good sources are
 
-[Liquid Vitamin D3](https://www.bluebonnetnutrition.com/product/bluebonnet-nutrition-liquid-vitamin-d3-drops-5000-iu-1-fl-oz/)
+- Fish Roe: 17,000 IU per tablespoon
+
+- Tallow or Lard: varies greatly
+
+- Fermented Cod Liver Oil: 3,450 IU per tablespoon
+
+- Salmon: 1000+ IU per 100g
 
 ### Vitamin C
 
-Periodically take about a teaspoon into a glass of water. I do this maybe once a week.
+Use a dessicated natural version of Vitamin C rather than lab grown Ascorbic Acid because it is more bioavailable and less toxic. Periodically take about a teaspoon into a glass of water. I do this maybe once a week.
 
-[Ascorbic Acid Powder](https://www.bulksupplements.com/products/ascorbic-acid-powder-vitamin-c?_pos=1&_sid=b67cfbbc3&_ss=r)
+[Acerola Powder](https://www.radiantlifecatalog.com/acerola-powder/)
 
 ## Amino Acids
 
 ### Glycine
 
 Add one teaspoon to freshly brewed Chamomile tea before bed.
+
+Note: This is lab grown Glycine so it has several downsides, such as possibly poor bioavailability. Either way you will absorb some of it, and it tastes good!
+
+The real way to acquire glycine, collagen, and gelatin is through bone broth.
 
 [Glycine Powder](https://www.bulksupplements.com/products/glycine-pure-powder?_pos=1&_sid=b8557547e&_ss=r)

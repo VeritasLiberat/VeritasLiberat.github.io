@@ -11,3 +11,6 @@ Eating raw legumes is detrimental to our health, but eating soy is especially ba
 * Lectins
 
 Never eat soy that hasn't been properly fermented.
+
+## Books
+**The Soy Deception** by Dr.  Brownstein
