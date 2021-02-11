@@ -34,13 +34,9 @@ layout: default
 <div class="pagination">
   {% if page.next.url %}
     <a class="pagination-button pagination-active" href="{{page.next.url}}">&#10096; &nbsp; {{page.next.title}}</a>
-    {% else %}
-      <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
   {% endif %}
   {% if page.previous.url %}
     <a class="pagination-button pagination-active next" href="{{page.previous.url}}"> {{page.previous.title}} &nbsp; &#10097; </a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
   {% endif %}
 </div>
 
