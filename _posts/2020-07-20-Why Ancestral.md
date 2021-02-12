@@ -10,6 +10,7 @@ Why am I looking to our ancestors and nature for guidance?
 ## Weston Price
 
 ![Man Holding Fish](/assets/img/harvesting_fish.jpg)
+{:class="featured-image"}
 
 Weston Price, head of the American Dental Association, traveled the world in the 1930's to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.
 
@@ -18,6 +19,7 @@ What were these people eating, and avoiding, to put them in a state of such exce
 ## Pottenger's Cats
 
 ![Black Cat](/assets/img/black_cat.jpg)
+{:class="featured-image"}
 
 Dr. Francis Pottenger also performed nutrition research in the 1930's. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.
 

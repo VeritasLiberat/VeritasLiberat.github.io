@@ -12,6 +12,7 @@ After extensive Anthropological, Biological, Chemical, and Historical research, 
 ## Pillar I - Meat Cooked on the Bone
 
 ![Steak](/assets/img/steak.jpg)
+{:class="featured-image"}
 
 Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.
 
@@ -27,6 +28,7 @@ Try to incorporate more parts of the animal. Opt for the Rib Steak rather than t
 ## Pillar II - Organs
 
 ![Liver and Onions](/assets/img/liver_onions.jpg)
+{:class="featured-image"}
 
 Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.
 
@@ -43,6 +45,7 @@ If you aren't ready to take the plunge and buy whole organs yet, start with high
 ## Pillar III - Part 1: Fermentation
 
 ![Saurkraut](/assets/img/Saurkraut.jpeg)
+{:class="featured-image"}
 
 Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.
 
@@ -57,6 +60,7 @@ This is my favorite topic to talk about because it has such a measurable and not
 ## Pillar III - Part 2: Sprouting
 
 ![Mung Beans](/assets/img/Sprouted_mung_beans.jpg)
+{:class="featured-image"}
 
 Animals try to kill you before you eat them. Plants try to kill you after you eat them.
 
@@ -78,6 +82,7 @@ Raw seeds do far more harm to your body than you might think. There is not a sin
 ## Pillar IV - Fresh and Raw
 
 ![Egg Yolks](/assets/img/Yolks.jpg)
+{:class="featured-image"}
 
 An oxidation-reduction reaction is where one positively charged molecule steals an electron from another molecule. The molecule that lost an electron is said to have been oxidized. For many bodily processes, oxidation is both necessary and good. But, when there is an over abundance of positively charged molecules, oxidation can get out of hand and destroy healthy biological structures. This is where antioxidants come in. Antioxidants are compounds that inhibit oxidation, and the amount of antioxidants in food begins to decrease once the organisms dies. Fresh, whole foods, including raw animal products, contain a safe and balanced blend of antioxidants because all living organisms use them to prevent damage. (In a later column I'll talk about the most powerful antioxidant. Hint: It's not food!)
 

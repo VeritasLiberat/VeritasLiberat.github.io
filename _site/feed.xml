@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-02-11T14:55:41-06:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">VERITAS LIBERAT</title><subtitle>Truth Frees</subtitle><author><name>VL</name></author><entry><title type="html">Fat</title><link href="http://0.0.0.0:4000/health/Fat.html" rel="alternate" type="text/html" title="Fat" /><published>2021-02-08T00:00:00-06:00</published><updated>2021-02-08T00:00:00-06:00</updated><id>http://0.0.0.0:4000/health/Fat</id><content type="html" xml:base="http://0.0.0.0:4000/health/Fat.html">&lt;h2 id=&quot;nature-makes-good-fat-factories-make-bad-fat&quot;&gt;Nature Makes Good Fat. Factories Make Bad Fat.&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2021-02-11T21:54:30-06:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">VERITAS LIBERAT</title><subtitle>Truth Frees</subtitle><author><name>VL</name></author><entry><title type="html">Fat</title><link href="http://0.0.0.0:4000/health/Fat.html" rel="alternate" type="text/html" title="Fat" /><published>2021-02-08T00:00:00-06:00</published><updated>2021-02-08T00:00:00-06:00</updated><id>http://0.0.0.0:4000/health/Fat</id><content type="html" xml:base="http://0.0.0.0:4000/health/Fat.html">&lt;h2 id=&quot;nature-makes-good-fat-factories-make-bad-fat&quot;&gt;Nature Makes Good Fat. Factories Make Bad Fat.&lt;/h2&gt;
 
 &lt;p&gt;You have all heard the dietary advice touted by every major “health” organization that saturated fat and cholesterol cause heart disease, obesity, diabetes, and other modern health epidemics. How do we reconcile this claim with the fact that traditional people eating enormous amounts of animal fat, which contain high levels of saturated fat and cholesterol, were (and in some areas of the world still are) in excellent health? Could it be true that food which has nourished us for many thousands of years, producing a state of almost unbelievable (to modern people) health, could be to blame for the modern health problems?&lt;/p&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;Lipid is the term used to describe both fats (lipids that are solid at room temperature) and oils (lipids that are liquid at room temperature). One commonly discussed, useful method for grouping lipids together is by the “saturation” of Carbon bonds. Lipids are essentially chains of Carbon atoms, plus Oxygen and Hydrogen, bound together by either a double bond or a single bond. Without getting into the specifics, know that double bonds are much weaker and require less energy to break. Single bonds are strong, hearty, and it takes a ton of energy to break them. If a lipid has all of its Carbon atoms bound together with single (strong) bonds, it is said to be “saturated”. If a lipid has all single bonds, but one double (weak) bond, it is said to be “monounsaturated”. If a lipid has more than one double Carbon bond, it is “polyunsaturated”.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Fatty_Acids.jpg&quot; alt=&quot;Fatty Acids&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/Fatty_Acids.jpg&quot; alt=&quot;Fatty Acids&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Oxidation Reduction reactions were covered in an earlier post, but only in the general sense of transfer of electrons. The transfer of Oxygen or Hydrogen is also considered an oxidative reaction. When Oxygen binds to a molecule, that molecule has been oxidized. These reactions can occur due to contact with another molecule with the right properties or excessive energy, often in the form of heat. Oxidation occurs in a controlled manner for many healthy bodily processes, but when it gets out of control it can cause major problems.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;When people talk about “cholesterol levels” though, they are not actually talking about cholesterol. They are talking about &lt;strong&gt;Lipoproteins&lt;/strong&gt;, which are &lt;em&gt;the&lt;/em&gt; essential particle in the &lt;strong&gt;Lipid Cycle&lt;/strong&gt; that transfer lipids throughout the body. They are composed of two parts. The &lt;em&gt;Lipid Core&lt;/em&gt; contains fats, cholesterol, fat soluble vitamins, and various other nutrients. The &lt;em&gt;Apoprotein Coat&lt;/em&gt; is the outer shell which contains many signaling protein molecules that store information such as the lipoprotein’s origin and contents.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Lipoprotein_Types.jpg&quot; alt=&quot;Lipoprotein Types&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/Lipoprotein_Types.jpg&quot; alt=&quot;Lipoprotein Types&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Lipid Cycle goes something like this:&lt;/p&gt;
 
@@ -60,7 +60,7 @@
 
 &lt;p&gt;Now let’s cover the modern production process for Vegetable Oils, which contain the contents extracted from corn, canola, soy, sunflower, cottonseed, safflower, rice bran, and grapeseed (often dubbed the “Hateful Eight”). These eight commonly used seeds hang on tightly to their oils, meaning traditional people did not eat these oils because they could not extract them. With modern technology though, machines are able to add inhuman amounts of pressure while heating them, thereby pulling most of their oils out and oxidizing them in the process. The rest of the oil is removed with an industrial solvent, normally hexane (part of gasoline).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/canola_oil.png&quot; alt=&quot;Canola Oil&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/canola_oil.png&quot; alt=&quot;Canola Oil&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The oil at this stage is so physically revolting in both sight and smell that it must go through at least a dozen more stages of processing to convert it into something that has no flavor, and is thus palatable enough to eat. Remember that natural foods which are healthy taste good. No flavor is a warning signal, where our body is telling us something is off about this food!&lt;/p&gt;
 
@@ -143,7 +143,7 @@ Dr. Catherine Shanahan&lt;/p&gt;
 
 &lt;h2 id=&quot;pillar-i---meat-cooked-on-the-bone&quot;&gt;Pillar I - Meat Cooked on the Bone&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/steak.jpg&quot; alt=&quot;Steak&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/steak.jpg&quot; alt=&quot;Steak&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Any food that tastes good, which our hunter gatherer ancestors had access to, is healthy. Through this lens, meat on the bone with skin and fat tastes better because it is more nutritious. Boneless, skinless, lean cuts of meat taste bland because they are largely devoid of the most important nutrients our bodies need.&lt;/p&gt;
 
@@ -160,7 +160,7 @@ Dr. Catherine Shanahan&lt;/p&gt;
 
 &lt;h2 id=&quot;pillar-ii---organs&quot;&gt;Pillar II - Organs&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/liver_onions.jpg&quot; alt=&quot;Liver and Onions&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/liver_onions.jpg&quot; alt=&quot;Liver and Onions&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Nutrient Density is the amount of nutrition a food provides per gram. One reason we see so much degenerative disease is because the Modern Western Diet is very low in Nutrient Density. The most nutrient dense foods are organs. Gram for gram, there is no food that even comes close, nutritionally, to liver.&lt;/p&gt;
 
@@ -178,7 +178,7 @@ If you aren’t ready to take the plunge and buy whole organs yet, start with hi
 
 &lt;h2 id=&quot;pillar-iii---part-1-fermentation&quot;&gt;Pillar III - Part 1: Fermentation&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Saurkraut.jpeg&quot; alt=&quot;Saurkraut&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/Saurkraut.jpeg&quot; alt=&quot;Saurkraut&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Fermentation is the amazing process of pre-digestion, preservation, and nutrient enhancement all rolled into one.&lt;/p&gt;
 
@@ -194,7 +194,7 @@ This is my favorite topic to talk about because it has such a measurable and not
 
 &lt;h2 id=&quot;pillar-iii---part-2-sprouting&quot;&gt;Pillar III - Part 2: Sprouting&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Sprouted_mung_beans.jpg&quot; alt=&quot;Mung Beans&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/Sprouted_mung_beans.jpg&quot; alt=&quot;Mung Beans&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Animals try to kill you before you eat them. Plants try to kill you after you eat them.&lt;/p&gt;
 
@@ -217,7 +217,7 @@ Almost all modern bread is made from wheat berries which have not been sprouted,
 
 &lt;h2 id=&quot;pillar-iv---fresh-and-raw&quot;&gt;Pillar IV - Fresh and Raw&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/Yolks.jpg&quot; alt=&quot;Egg Yolks&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/Yolks.jpg&quot; alt=&quot;Egg Yolks&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;An oxidation-reduction reaction is where one positively charged molecule steals an electron from another molecule. The molecule that lost an electron is said to have been oxidized. For many bodily processes, oxidation is both necessary and good. But, when there is an over abundance of positively charged molecules, oxidation can get out of hand and destroy healthy biological structures. This is where antioxidants come in. Antioxidants are compounds that inhibit oxidation, and the amount of antioxidants in food begins to decrease once the organisms dies. Fresh, whole foods, including raw animal products, contain a safe and balanced blend of antioxidants because all living organisms use them to prevent damage. (In a later column I’ll talk about the most powerful antioxidant. Hint: It’s not food!)&lt;/p&gt;
 
@@ -247,7 +247,7 @@ Almost all modern bread is made from wheat berries which have not been sprouted,
 
 &lt;h2 id=&quot;weston-price&quot;&gt;Weston Price&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/harvesting_fish.jpg&quot; alt=&quot;Man Holding Fish&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/harvesting_fish.jpg&quot; alt=&quot;Man Holding Fish&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Weston Price, head of the American Dental Association, traveled the world in the 1930’s to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.&lt;/p&gt;
 
@@ -255,7 +255,7 @@ Almost all modern bread is made from wheat berries which have not been sprouted,
 
 &lt;h2 id=&quot;pottengers-cats&quot;&gt;Pottenger’s Cats&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/black_cat.jpg&quot; alt=&quot;Black Cat&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;featured-image&quot;&gt;&lt;img src=&quot;/assets/img/black_cat.jpg&quot; alt=&quot;Black Cat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dr. Francis Pottenger also performed nutrition research in the 1930’s. His experiments involved feeding groups of cats either raw animal products (meat, organs, bones, milk) or cooked animal products. After 10 years, several generations on the raw food diet were in excellent health by every measurable marker.&lt;/p&gt;
 
