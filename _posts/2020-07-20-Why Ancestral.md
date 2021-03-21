@@ -14,6 +14,11 @@ Why am I looking to our ancestors and nature for guidance?
 
 Weston Price, head of the American Dental Association, traveled the world in the 1930's to gather data on traditional indigenous peoples. He wondered why the majority of people in the United States have cavities and crowded teeth. He discovered, much to his shock, that these traditional populations, when eating their traditional diets, had nearly zero cavities and fully developed jaws and skulls, meaning they had no crowding of their teeth. When these same populations established contact with civilization and began eating modern foods, their health deteriorated considerably, giving them cavities and poor development.
 
+![Weston Price](/assets/img/WP_Comparison.jpg)
+{:class="featured-image"}
+
+On the left image above are traditional people still eating their traditional diet. Note the "magnificent teeth and dental arches" which are typical of all traditional peoples. On the right image are people of the same genetic population, but eating a modern diet. Note the cavities and "lack of development of the facial bones with a narrowing of the nostrils and dental arches with crowding of the teeth".
+
 What were these people eating, and avoiding, to put them in a state of such excellent health?
 
 ## Pottenger's Cats
@@ -41,6 +46,11 @@ Consider the state of our health in the modern United States:
 
 Contrast that with, for example, the health of the Innuit or Eskimo peoples on their native diet of almost exclusively whole seafood (whale, fish, seal) and whole caribou. They have perfectly formed skeletons, perfect teeth, and more than twice the thickness of the skull as us. They aren't plagued by modern degenerative diseases, such as those listed above, and have incredibly good blood panels. Hearty, strong, full of energy, happy. These are all words regularly used to describe these people.
 Note: Learn more about these impressive people by reading *The Fat of the Land* by Vilhjalmur Stefansson.
+
+![Skull Comparison](/assets/img/WP_Skulls.jpg)
+{:class="featured-image"}
+
+The picture above compares a modern whole skull to the skulls of two traditional people. Note how thin the modern skull is compared to the thickness of the two traditional skulls.
 
 Something is clearly wrong with our way of life. We are paying the price for abandoning our nature. The modern person is only a shell, not coming close to their potential. For this reason, and many more, we must study the wisdom of traditional knowledge, proven successful for thousands of years, to teach us how to live.
 

@@ -61,8 +61,7 @@ The following may be taken on an empty stomach with a glass of water. Take with 
   * Redmond Real Salt
   * Pink Himalayan salt
   * Gray Celtic sea salt
-* Drink adequate pure water (reverse osmosis or distilled)
-  * (Your weight in pounds/2) ounces of water per day
+* Drink adequate pure water (reverse osmosis, distilled, or mineral)
 * 1000 mg Vitamin C (optional)
 * 100 mg Vitamin B2 (riboflavin)
 * 500 mg Vitamin B3 (niacin)
