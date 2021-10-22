@@ -11,7 +11,7 @@ layout: default
 {% assign dir_array = page.dir | split: "/" %}
 {% assign dir_array_size_increment = dir_array.size | plus: 1 %}
 
-{% assign order = "Nutrition, Sleep, Fitness, Mental, Electromagnetic Fields, Fasting, Hormesis, Disease" | split: ", " %}
+{% assign order = "Nutrition, Cleanse, Sleep, Fitness, Mental, Electromagnetic Fields, Fasting, Hormesis, Disease" | split: ", " %}
 
 {% for entry in order %}
   {% for current_page in site.pages %}
@@ -32,4 +32,3 @@ layout: default
     {% endif %}
   {% endfor %}
 {% endfor %}
-
