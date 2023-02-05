@@ -4,7 +4,7 @@ title: Colon
 image: colon_cleanse.jpg
 ---
 
-The Colon Cleanse will clear the small intestines and colon of impacted material and improve their functions of assimilation, absorption, and elimination. This is an important first cleanse as a large percentage of the body's waste must pass through the colon to be expelled. The average person is estimated to have five to twelve pounds of compacted fecal waste within their bowels, which the body encases in mucus to keep itself from being poisoned. This fecal fortress is a home base for many pathogens. By purging this "home base" you can remove pounds of waste, improve your body's ability to absorb nutrients and flush toxins, and eliminate many parasites and other damaging bacteria.
+The Colon Cleanse will clear the small intestines and colon of impacted material and improve their functions of assimilation, absorption, and elimination. This is an important cleanse as a large percentage of the body's waste must pass through the colon to be expelled. The average person is estimated to have five to twelve pounds of compacted fecal waste within their bowels, which the body encases in mucus to keep itself from being poisoned. This fecal fortress is a home base for many pathogens. By purging this "home base" you can remove pounds of waste, improve your body's ability to absorb nutrients and flush toxins, and eliminate many parasites and other damaging bacteria.
 
 ## What You Need
 
