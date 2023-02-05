@@ -19,6 +19,8 @@ Weston Price, head of the American Dental Association, traveled the world in the
 
 On the left image above are traditional people still eating their traditional diet. Note the "magnificent teeth and dental arches" which are typical of all traditional peoples. On the right image are people of the same genetic population, but eating a modern diet. Note the cavities and "lack of development of the facial bones with a narrowing of the nostrils and dental arches with crowding of the teeth".
 
+For more information, check out *Nutrition and Physical Degeneration* by Dr. Weston A Price. 
+
 What were these people eating, and avoiding, to put them in a state of such excellent health?
 
 ## Pottenger's Cats

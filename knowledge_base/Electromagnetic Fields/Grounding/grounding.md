@@ -15,7 +15,7 @@ Access to this reservoir of electrons significantly reduces chronic inflammation
 
 ### Recommendations
 
-* Sleep grounded
+* [Sleep grounded](https://www.earthing.com/collections/all/products/earthing-elite-mattress-cover)
 * Be barefoot on the Earth for at least 30 minutes per day.
 
 ## Books

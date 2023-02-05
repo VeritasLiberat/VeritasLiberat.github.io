@@ -32,10 +32,10 @@ Now that the bodies main detoxification pathways are functioning better, parasit
 #### 5. [Oxidizer](/knowledge_base/Cleanse/5.%20Oxidizer/oxidizer.html)
 Once many parasites are gone, a strong oxidizer will further remove parasites, heavy metals, and generally shift the body into an aerobic terrain which produces beneficial outcomes.
 
-#### 6. [Liver and Gallbladder](/knowledge_base/Cleanse/Liver%20and%20Gallbladder/liver.html)
+#### 6. [Liver and Gallbladder](/knowledge_base/Cleanse/6.%20Liver%20and%20Gallbladder/liver.html)
 Since the liver and gallbladder store stones as well, these must be eliminated for optimal metabolic health. It is recommended to remove parasites before stones though as parasites in the liver can inhibit the passing of stones.
 
-#### 7. [Heavy Metal](/knowledge_base/Cleanse/Heavy%20Metal/heavy_metal.html)
+#### 7. [Heavy Metal](/knowledge_base/Cleanse/7.%20Heavy%20Metal/heavy_metal.html)
 The modern environment loads the body with large amounts of heavy metals, and the parasite cleanse will, among other effects, release more heavy metals into the body. Various heavy metal chelation and adsorption is recommended in other cleanses, but a focused heavy metal cleanse is a crucial final step.
 
 ## Details
