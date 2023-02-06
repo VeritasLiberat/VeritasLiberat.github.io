@@ -5,8 +5,6 @@ image: heavy_metal.jpg
 ---
 
 
-# Cleanse
-
 ## Procedure
 
 ## Products

@@ -6,8 +6,6 @@ image: oxidizer.jpg
 
 
 
-# Cleanse
-
 ## Procedure
 
 ## Products
