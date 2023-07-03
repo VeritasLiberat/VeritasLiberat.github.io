@@ -78,7 +78,7 @@ NO antioxidants should be ingested for the duration of the cleanse. There are no
 
 Examples of antioxidant rich foods that should be avoided during the cleanse:
 - Chocolate
-- Cofee
+- Coffee
 - Tea
 - Kombucha
 - Citrus fruits
