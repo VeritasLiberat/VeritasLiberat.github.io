@@ -31,19 +31,21 @@ These kits are comprised of two bottles:
 1. Sodium Chlorite (~25%)
 2. Hydrochloric Acid (~4%)
 
-The ingredients must be separated because CD is not stable and breaks down quickly. All that is required to make CD is to mix one part NaClO2 with one part HCl, and wait one minute.
+The ingredients must be separated because CD is not stable and breaks down quickly. All that is required to make CD is to mix one part NaClO2 with one part HCl, and wait 30 seconds for the color to turn amber, or dark yellow.
 
-Once the solution has been allowed to sit for one minute, dilute with pure water (distilled, reverse osmosis, or verified clean spring water) to a concentration of 1oz. water per 1 drop CD.
+Once the solution has been allowed to sit for 30 seconds, dilute with pure water (distilled, reverse osmosis, or verified clean spring water) to a concentration of 1oz. water per 1 drop CD.
 
 We consider one "drop" of CD to be one drop of NAClO2 and one drop of HCl mixed together.
 
 Only ever do this in glass, as metal will oxidize easily, and plastic of course should not be used with food.
 
-This diluted CD with water solution is what will be ingested. It must be stored in a glass container that seals very well, as it will be drank throughout the day. Always be sure to mix fresh CD each morning, as even a day old will lose considerable potency.
+This diluted CD with water solution should be ingested immediately because it begins losing potency as soon as it's mixed.
+
+While you can premix the day's 8 doses and store them in a glass jar that seals well, it is recommended to mix a fresh batch each time.
 
 In Summary, the process to make Chlorine Dioxide:
 1. Mix one part NaClO2 wih one part HCl
-2. Let sit for one minute
+2. Let sit for 30 seconds
 3. Dilute to 1oz. water per 1 drop CD
 
 ### Dosing
@@ -64,9 +66,9 @@ During the day, you will take one eighth of your daily dose, eight times, spread
 
 For a simple example, you can take each one eighth dose at the top of each hour starting at 8AM and ending at 3PM.
 
-You may eat in between any of these hours, but very large meals are not recommended until at least one hour after the dosing window.
+You may eat in between any of these hours, but very large meals are not recommended until at least two hours after the dosing window.
 
-If you experience a strong healing reaction, do not increase the dose. Instead keep the dose consistent each day until the symptoms subside, after which the dose can be increased.
+If you experience a strong healing reaction, do not increase the dose. Instead cut the dose in half until the symptoms subside, after which the dose can be increased.
 
 Once you reach your full dose, you may continue the cleanse for as long as you like. While CD is amazing, it will not remove all the harmful bacteria, parasites, fungi, and heavy metals from your body immediately. Many stories have shown people taking CD for 1-3 years before they had fully reduced their toxic load to a healthy level.
 
@@ -74,9 +76,9 @@ Once you reach your full dose, you may continue the cleanse for as long as you l
 
 CD, being an oxidizer, is completely neutralized by antioxidants. Most antioxidants are active for many hours inside our body, during which time any CD ingested will be nearly useless.
 
-NO antioxidants should be ingested for the duration of the cleanse. There are no exceptions to this rule, as any antioxidant will render the relatively weak oxidizer, CD, ineffective. Note that if you do ingest any antioxidants, it can take a day or more to be out of your system, and you can expect CD to do very little during that time.
+No antioxidants should be ingested in the 8 hour dosing window, as any antioxidant will render the relatively weak oxidizer, CD, ineffective. Only ingest antioxidants 2 hours after the dosing window, but not much more, to ensure they are processed out of your body before the next day's dosing window.
 
-Examples of antioxidant rich foods that should be avoided during the cleanse:
+Examples of antioxidant rich foods that should be avoided:
 - Chocolate
 - Coffee
 - Tea
@@ -95,3 +97,8 @@ In addition, any supplement that contains antioxidants, or antioxidant direct pr
 [KVLab - Chlorine Dioxide](https://kvlab.com/chlorine-dioxide-products/chlorine-dioxide-kit-w-hcl-activator-NKP-H4)
 
 Also, use the product(s) from the [Colon Cleanse](/knowledge_base/Cleanse/2.%20Colon/colon.html) to clear out the intenstines of all parasites, which will accumulate over the course of the cleanse.
+
+## Resources
+*MMS Health Recovery Guidebook* - Jim Humble
+
+*Healing the Symptoms Known as Autism* - Kerri Rivera
